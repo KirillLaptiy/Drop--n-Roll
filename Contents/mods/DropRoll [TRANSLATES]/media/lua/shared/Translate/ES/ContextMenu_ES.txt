@@ -1,0 +1,7 @@
+ContextMenu_ES = {
+
+	
+	ContextMenu_Stop_Drop_n_Roll = "Para!, recuestate y rueda"
+
+
+}

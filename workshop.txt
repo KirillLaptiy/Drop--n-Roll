@@ -1,0 +1,16 @@
+version=1
+id=3012985311
+title=Stop, Drop 'n Roll [WITH TRANSLATES]
+description=ѕолна€ копи€ мода Stop, Drop 'n Roll, но с переводами. «апускать только 1 версию мода, если вы хотите, чтобы по€вилс€ перевод на ваш €зык, переведите в обсуждении
+description=
+description=ѕоддерживаемые €зыки:
+description=
+description=EN - Yummy
+description=RU - Yummy
+description=UA - Yummy
+description=
+description=Ѕольшое спасибо создател€м Wuffwick и Jaql за создание оригинального мода Stop, Drop 'n Roll
+description=
+description=ќригинальный мод: https://steamcommunity.com/sharedfiles/filedetails/?id=2908614026
+tags=Build 41;Clothing/Armor;Language/Translation;Misc;Multiplayer;Pop Culture;Realistic
+visibility=public

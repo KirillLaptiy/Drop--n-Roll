@@ -1,0 +1,7 @@
+ContextMenu_UA = {
+
+	
+	ContextMenu_Stop_Drop_n_Roll = "Упасти і перекотитися"
+
+
+}

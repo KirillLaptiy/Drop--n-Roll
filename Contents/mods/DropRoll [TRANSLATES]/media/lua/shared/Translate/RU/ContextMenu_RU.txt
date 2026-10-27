@@ -1,0 +1,7 @@
+ContextMenu_RU = {
+
+	
+	ContextMenu_Stop_Drop_n_Roll = "”пасть и перекатыватьс€"
+
+
+}

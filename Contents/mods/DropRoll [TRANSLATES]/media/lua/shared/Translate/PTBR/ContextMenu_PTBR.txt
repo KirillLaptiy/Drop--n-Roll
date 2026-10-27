@@ -1,0 +1,7 @@
+ContextMenu_PTBR = {
+
+
+	ContextMenu_Stop_Drop_n_Roll = "Pare, Solte e Role!"
+
+
+}
